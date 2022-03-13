@@ -10,7 +10,7 @@
   "devDependencies": {
     "scripts": "^0.1.0"
   },
-  "name": "myapp",
+  "name": "challenge",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -18,5 +18,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rolando-Du/challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rolando-Du/challenge/issues"
+  },
+  "homepage": "https://github.com/Rolando-Du/challenge#readme",
   "description": ""
 }
