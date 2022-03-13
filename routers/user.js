@@ -8,11 +8,13 @@ const options = {
 };
 
 
+
 //Routes Users
 
 router.get('/login', usersController.login);
 router.get('/register', usersController.register);
 router.get('/users/register', usersController.register);
+
 
 
 //Export Module

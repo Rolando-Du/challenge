@@ -10,7 +10,7 @@
   "devDependencies": {
     "scripts": "^0.1.0"
   },
-  "name": "challenge-backend-nodejs",
+  "name": "myapp",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
